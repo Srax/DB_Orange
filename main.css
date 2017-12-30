@@ -76,7 +76,7 @@ body {
 a {
     text-decoration: none;
     border: none;
-    color: #eab16b;
+    color: #ff911c;
     transition: color 0.2s ease;
 }
 
@@ -320,16 +320,15 @@ ul.thin li {
 }
 
 #menu ul li a {
-    color: #eab16b;
+    color: #ff911c;
     text-shadow: 1px 1px 0 #000;
     transition: color 0.2s ease;
     text-transform: uppercase;
 }
 
 #menu ul li a:hover {
-    color: #ffdba2;
+    color: #ffba4e;
     text-decoration: none;
-
 }
 
 #userinfo img {
@@ -1578,7 +1577,7 @@ tr.unreadpm {
 #userinfo_stats li {
     position: relative;
     display: block;
-    color: #eab16b;
+    color: #ff911c;
     line-height: 20px;
     vertical-align: middle;
     float: left;
@@ -1665,7 +1664,7 @@ tr.unreadpm {
 }
 
 #userinfo a:hover {
-    color: #ffdba2;
+    color: #ffba4e;
 }
 
 #nav_donate font {
